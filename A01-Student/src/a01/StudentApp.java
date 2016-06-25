@@ -16,6 +16,7 @@ public class StudentApp {
 		students.add(student3);
 		
 		System.out.println();
+		System.out.println();
 		int selection = 0;
 			
 		do {
